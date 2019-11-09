@@ -5,3 +5,6 @@ module MetaDancing
   end
 end
 
+class Dancer
+  extend MetaDancing
+end
